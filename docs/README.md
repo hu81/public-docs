@@ -2,4 +2,4 @@
 
 > An awesome project.
 
-demo.jpeg
+![logo](medias/demo.jpeg)
